@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1681002162250,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.c2485c4a98f535e1.js",
+        "/manifest.webmanifest",
+        "/polyfills.913a841b70fd2a8b.js",
+        "/runtime.309ad5950669f89e.js",
+        "/scripts.838087b36a2f9b73.js",
+        "/styles.582cdf7c10d24f4f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/accessor.7d118dbbfe28b9cb.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/accessor.jpg",
+        "/assets/images/facebook.png",
+        "/assets/images/instagram.png",
+        "/assets/images/kanelas.ico",
+        "/assets/images/kanelas.jpg",
+        "/fa-brands-400.5f7c5bb77eae788b.ttf",
+        "/fa-brands-400.9210030c21e68a90.woff2",
+        "/fa-regular-400.02ad4ff91ef84f65.woff2",
+        "/fa-regular-400.570a165b064c1468.ttf",
+        "/fa-solid-900.0b5caff7ad4bc179.ttf",
+        "/fa-solid-900.3eae9857c06e9372.woff2",
+        "/fa-v4compatibility.6209cf0172d95b0e.woff2",
+        "/fa-v4compatibility.92dce52f885fd838.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/accessor.7d118dbbfe28b9cb.jpg": "3bf100c29405fd81c842b16466930a4d7e9619b3",
+    "/assets/icons/icon-128x128.png": "e2d72028970f925b0ac41aebacc3d6a6899d79a8",
+    "/assets/icons/icon-144x144.png": "f2572efbe418cd6f4a00d06b651aeb61d72d9ca6",
+    "/assets/icons/icon-152x152.png": "3e60bfd093fff5c1326c4de0085d21e87d1aaac6",
+    "/assets/icons/icon-192x192.png": "f19156bf44a61e24fa1d0b74e44b4e7536eadf7c",
+    "/assets/icons/icon-384x384.png": "63bdb3b28e7b3015cd7d50eb7ecf9da5313b99ae",
+    "/assets/icons/icon-512x512.png": "86abe8c9b84284d7858d1bb26e88af7e577776e1",
+    "/assets/icons/icon-72x72.png": "528b303880fa72f04d3cde4e0e4e0d7b26c939f4",
+    "/assets/icons/icon-96x96.png": "a6de270029d0ea9c7710a129d6bf8f94eee832de",
+    "/assets/images/accessor.jpg": "3bf100c29405fd81c842b16466930a4d7e9619b3",
+    "/assets/images/facebook.png": "d760cccddce9e7bc253435171f7bc7cd4cc5f8f4",
+    "/assets/images/instagram.png": "8c63d1d743da51cda0ee35407535b72b7b9215b9",
+    "/assets/images/kanelas.ico": "528b303880fa72f04d3cde4e0e4e0d7b26c939f4",
+    "/assets/images/kanelas.jpg": "7f1f52901326001cca83a48ddd388404285f1097",
+    "/fa-brands-400.5f7c5bb77eae788b.ttf": "f0982a77285d53653845b0a78170b4688db972f1",
+    "/fa-brands-400.9210030c21e68a90.woff2": "4350f9ba93384634faf35f41c503c99c767f1069",
+    "/fa-regular-400.02ad4ff91ef84f65.woff2": "fb363d27cfdfe71a243fa2ac3dab2815232b9b7e",
+    "/fa-regular-400.570a165b064c1468.ttf": "67afa6237670ab99125056f2899129f22912dcf3",
+    "/fa-solid-900.0b5caff7ad4bc179.ttf": "20bd663830188cbadd2264e1daf9497c3ffc3621",
+    "/fa-solid-900.3eae9857c06e9372.woff2": "6b99aa650bd12a36caa14e0127435d8f4cd3ba73",
+    "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
+    "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
+    "/favicon.ico": "e91a07bf9ac35af7e7b4983e1baf87120c557b20",
+    "/index.html": "3b0de0428c32bbfb37de764bd2dead66aa19d9a6",
+    "/main.c2485c4a98f535e1.js": "19211c6bafbb69567981741bcac6da4a3d87fb90",
+    "/manifest.webmanifest": "8c9d2379efa0552a1fbc4f6054c117ed80cac125",
+    "/polyfills.913a841b70fd2a8b.js": "262c8799c7db244064a8fafeb6e6b17d4824aad0",
+    "/runtime.309ad5950669f89e.js": "fbcd11c36fc724c3b1f8f5581174915f8116eb37",
+    "/scripts.838087b36a2f9b73.js": "1b5ce2dda2a97c6ef32808618e0b71992989e0cd",
+    "/styles.582cdf7c10d24f4f.css": "1b33efce4f102107b57d9f8ff15ff8497732c777"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
